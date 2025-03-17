@@ -55,6 +55,18 @@ build CMakeFiles/sem_2.dir/main.c.obj: C_COMPILER__sem_2_unscanned_Debug C$:/Git
   OBJECT_DIR = CMakeFiles\sem_2.dir
   OBJECT_FILE_DIR = CMakeFiles\sem_2.dir
 
+build CMakeFiles/sem_2.dir/tests.c.obj: C_COMPILER__sem_2_unscanned_Debug C$:/Git/Object-Oriented-Programing/sem_2/tests.c || cmake_object_order_depends_target_sem_2
+  DEP_FILE = CMakeFiles\sem_2.dir\tests.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sem_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\sem_2.dir
+
+build CMakeFiles/sem_2.dir/dynamicarray.c.obj: C_COMPILER__sem_2_unscanned_Debug C$:/Git/Object-Oriented-Programing/sem_2/dynamicarray.c || cmake_object_order_depends_target_sem_2
+  DEP_FILE = CMakeFiles\sem_2.dir\dynamicarray.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sem_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\sem_2.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target sem_2
@@ -63,7 +75,7 @@ build CMakeFiles/sem_2.dir/main.c.obj: C_COMPILER__sem_2_unscanned_Debug C$:/Git
 #############################################
 # Link the executable sem_2.exe
 
-build sem_2.exe: C_EXECUTABLE_LINKER__sem_2_Debug CMakeFiles/sem_2.dir/main.c.obj
+build sem_2.exe: C_EXECUTABLE_LINKER__sem_2_Debug CMakeFiles/sem_2.dir/main.c.obj CMakeFiles/sem_2.dir/tests.c.obj CMakeFiles/sem_2.dir/dynamicarray.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\sem_2.dir
@@ -72,72 +84,6 @@ build sem_2.exe: C_EXECUTABLE_LINKER__sem_2_Debug CMakeFiles/sem_2.dir/main.c.ob
   TARGET_FILE = sem_2.exe
   TARGET_IMPLIB = libsem_2.dll.a
   TARGET_PDB = sem_2.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target test
-
-
-#############################################
-# Order-only phony target for test
-
-build cmake_object_order_depends_target_test: phony || .
-
-build CMakeFiles/test.dir/tests.c.obj: C_COMPILER__test_unscanned_Debug C$:/Git/Object-Oriented-Programing/sem_2/tests.c || cmake_object_order_depends_target_test
-  DEP_FILE = CMakeFiles\test.dir\tests.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\test.dir
-  OBJECT_FILE_DIR = CMakeFiles\test.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target test
-
-
-#############################################
-# Link the executable test.exe
-
-build test.exe: C_EXECUTABLE_LINKER__test_Debug CMakeFiles/test.dir/tests.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\test.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = test.exe
-  TARGET_IMPLIB = libtest.dll.a
-  TARGET_PDB = test.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target dynamic_array
-
-
-#############################################
-# Order-only phony target for dynamic_array
-
-build cmake_object_order_depends_target_dynamic_array: phony || .
-
-build CMakeFiles/dynamic_array.dir/dynamicarray.c.obj: C_COMPILER__dynamic_array_unscanned_Debug C$:/Git/Object-Oriented-Programing/sem_2/dynamicarray.c || cmake_object_order_depends_target_dynamic_array
-  DEP_FILE = CMakeFiles\dynamic_array.dir\dynamicarray.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\dynamic_array.dir
-  OBJECT_FILE_DIR = CMakeFiles\dynamic_array.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target dynamic_array
-
-
-#############################################
-# Link the executable dynamic_array.exe
-
-build dynamic_array.exe: C_EXECUTABLE_LINKER__dynamic_array_Debug CMakeFiles/dynamic_array.dir/dynamicarray.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\dynamic_array.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = dynamic_array.exe
-  TARGET_IMPLIB = libdynamic_array.dll.a
-  TARGET_PDB = dynamic_array.exe.dbg
 
 
 #############################################
@@ -165,11 +111,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build dynamic_array: phony dynamic_array.exe
-
 build sem_2: phony sem_2.exe
-
-build test: phony test.exe
 
 # =============================================================================
 # Folder targets.
@@ -179,7 +121,7 @@ build test: phony test.exe
 #############################################
 # Folder: C:/Git/Object-Oriented-Programing/sem_2/cmake-build-debug
 
-build all: phony sem_2.exe test.exe dynamic_array.exe
+build all: phony sem_2.exe
 
 # =============================================================================
 # Built-in targets

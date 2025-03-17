@@ -15,9 +15,7 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0,
-						1,
-						2
+						0
 					]
 				}
 			],
@@ -32,9 +30,7 @@
 					"name" : "sem_2",
 					"targetIndexes" : 
 					[
-						0,
-						1,
-						2
+						0
 					]
 				}
 			],
@@ -42,23 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "dynamic_array::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-dynamic_array-Debug-314e9fa014bd17fe50c1.json",
-					"name" : "dynamic_array",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
 					"id" : "sem_2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-sem_2-Debug-6facc4ae88196a379e24.json",
+					"jsonFile" : "target-sem_2-Debug-103587760c606598181b.json",
 					"name" : "sem_2",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test-Debug-5f312d09790191520935.json",
-					"name" : "test",
 					"projectIndex" : 0
 				}
 			]

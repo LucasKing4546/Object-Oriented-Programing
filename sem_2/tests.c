@@ -6,7 +6,7 @@ void testCreateDestroyArray()
 	assert(size(&arr) == 0);
 	destroyArray(&arr);
 }
-/*
+
 void testAddArray()
 {
 	DynamicArray arr = createArray();
@@ -127,4 +127,3 @@ void testSearchInArray() {
 	destroyArray(&arr);
 
 }
-*/
