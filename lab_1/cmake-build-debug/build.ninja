@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Git/Object-Oriented-Programing/lab_1/cmake-build-debug
 
 build cmake_object_order_depends_target_lab_1: phony || .
 
-build CMakeFiles/lab_1.dir/p4.c.obj: C_COMPILER__lab_1_unscanned_Debug C$:/Git/Object-Oriented-Programing/lab_1/p4.c || cmake_object_order_depends_target_lab_1
-  DEP_FILE = CMakeFiles\lab_1.dir\p4.c.obj.d
+build CMakeFiles/lab_1.dir/p5.c.obj: C_COMPILER__lab_1_unscanned_Debug C$:/Git/Object-Oriented-Programing/lab_1/p5.c || cmake_object_order_depends_target_lab_1
+  DEP_FILE = CMakeFiles\lab_1.dir\p5.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\lab_1.dir
   OBJECT_FILE_DIR = CMakeFiles\lab_1.dir
@@ -63,7 +63,7 @@ build CMakeFiles/lab_1.dir/p4.c.obj: C_COMPILER__lab_1_unscanned_Debug C$:/Git/O
 #############################################
 # Link the executable lab_1.exe
 
-build lab_1.exe: C_EXECUTABLE_LINKER__lab_1_Debug CMakeFiles/lab_1.dir/p4.c.obj
+build lab_1.exe: C_EXECUTABLE_LINKER__lab_1_Debug CMakeFiles/lab_1.dir/p5.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\lab_1.dir

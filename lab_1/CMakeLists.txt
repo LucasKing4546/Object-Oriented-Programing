@@ -4,5 +4,5 @@ project(lab_1 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(lab_1
-        p4.c
+        p5.c
 )

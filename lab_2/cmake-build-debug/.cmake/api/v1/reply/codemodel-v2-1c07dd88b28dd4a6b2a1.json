@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_2_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_2_1-Debug-e698b2a2d45fe7a8521d.json",
+					"name" : "lab_2_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_2_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_2_2-Debug-003d8bb3f154dab25273.json",
+					"name" : "lab_2_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_2_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_2_3-Debug-bb4ad80f7d1c30cf0deb.json",
+					"name" : "lab_2_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Git/Object-Oriented-Programing/lab_2/cmake-build-debug",
+		"source" : "C:/Git/Object-Oriented-Programing/lab_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

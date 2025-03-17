@@ -1,0 +1,5 @@
+# ninja log v6
+56	248	7627082500928385	CMakeFiles/sem_1.dir/main.c.obj	36fd12ddd04a3bae
+30	168	7627093032915577	CMakeFiles/sem_1.dir/p1.c.obj	2e3085dc1f6f57f
+249	390	7627082502852065	sem_1.exe	d0d2a9319e7194f9
+2	494	7627093205355750	build.ninja	9f5bfeec5f2efb73
