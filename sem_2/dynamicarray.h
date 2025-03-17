@@ -5,7 +5,9 @@
 typedef int TElem;
 
 typedef struct {
-	//add needed fields for dynamic array
+	int capacity;
+	int length;
+	TElem* data;
 } DynamicArray;
 
 /// <summary>
