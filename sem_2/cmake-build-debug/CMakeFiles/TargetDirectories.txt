@@ -1,3 +1,5 @@
 C:/Git/Object-Oriented-Programing/sem_2/cmake-build-debug/CMakeFiles/sem_2.dir
+C:/Git/Object-Oriented-Programing/sem_2/cmake-build-debug/CMakeFiles/test.dir
+C:/Git/Object-Oriented-Programing/sem_2/cmake-build-debug/CMakeFiles/dynamic_array.dir
 C:/Git/Object-Oriented-Programing/sem_2/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Git/Object-Oriented-Programing/sem_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
