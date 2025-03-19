@@ -3,4 +3,5 @@ project(lab_4)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(lab_4 main.cpp)
+add_executable(lab_4 main.cpp
+double_queue.h)
