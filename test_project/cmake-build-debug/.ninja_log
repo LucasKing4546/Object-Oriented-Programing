@@ -1,0 +1,5 @@
+# ninja log v6
+1	480	7644387628741938	CMakeFiles/test_project.dir/BankAccount.cpp.obj	fd1cbbb89365ced2
+547	713	7644387634194053	test_project.exe	bb2521baaad7b6af
+15	498	7644387628881909	CMakeFiles/test_project.dir/main.cpp.obj	4c0cd78cc17acd71
+8	546	7644387628801884	CMakeFiles/test_project.dir/Complex.cpp.obj	d9ddf9323c3ac919
