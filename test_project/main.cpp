@@ -1,25 +1,23 @@
+//
+// Created by Lucas on 3/23/2025.
+//
+#include "Complex.h"
 #include <iostream>
+using namespace std;
 
-// TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 int main() {
-    // TIP Press <shortcut actionId="RenameElement"/> when your caret is at the
-    // <b>lang</b> variable name to see how CLion can help you rename it.
-    auto lang = "C++";
-    std::cout << "Hello and welcome to " << lang << "!\n";
-
-    for (int i = 1; i <= 5; i++) {
-        // TIP Press <shortcut actionId="Debug"/> to start debugging your code.
-        // We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/>
-        // breakpoint for you, but you can always add more by pressing
-        // <shortcut actionId="ToggleLineBreakpoint"/>.
-        std::cout << "i = " << i << std::endl;
-    }
-
+    Complex stackComplex = Complex(5.0, 3.0,
+        Complex::POLAR_FORM);
+    cout << stackComplex << endl;
+    cout << "Magnitude: " << stackComplex.getMagnitude() << endl;
+    cout << "Phase: " << stackComplex.getPhase() << endl;
+    auto* heapComplex = new Complex(2.0, 6.0, Complex::POLAR_FORM);
+    cout << *heapComplex << endl;
+    cout << "Magnitude: " << heapComplex->getMagnitude() << endl;
+    cout << "Phase: " << heapComplex->getPhase() << endl;
+    cout << "Addition: " << stackComplex + *heapComplex << endl;
+    cout << "Subtraction: " << stackComplex - *heapComplex << endl;
+    cout << "Multiplication: " << stackComplex * *heapComplex << endl;
+    delete heapComplex;
     return 0;
 }
-
-// TIP See CLion help at <a
-// href="https://www.jetbrains.com/help/clion/">jetbrains.com/help/clion/</a>.
-//  Also, you can try interactive lessons for CLion by selecting
-//  'Help | Learn IDE Features' from the main menu.

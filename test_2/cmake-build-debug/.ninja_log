@@ -1,0 +1,26 @@
+# ninja log v6
+8	672	7645395014436443	CMakeFiles/test_2.dir/Duration.cpp.obj	13aa578e909abba6
+27	703	7645403763269721	CMakeFiles/test_2.dir/main.cpp.obj	8aa831fc529cf3ff
+704	901	7645403770049053	test_2.exe	189f381c29f13bbe
+21	650	7645405263212254	CMakeFiles/test_2.dir/main.cpp.obj	8aa831fc529cf3ff
+30	662	7645405263299701	CMakeFiles/test_2.dir/TaskRepository.cpp.obj	78452198c52245d9
+662	800	7645405269620697	test_2.exe	e3ba6a132bea1ed6
+21	644	7645405512319023	CMakeFiles/test_2.dir/main.cpp.obj	8aa831fc529cf3ff
+29	646	7645405512404140	CMakeFiles/test_2.dir/TaskRepository.cpp.obj	78452198c52245d9
+646	802	7645405518572720	test_2.exe	e3ba6a132bea1ed6
+42	756	7645405576741215	CMakeFiles/test_2.dir/main.cpp.obj	8aa831fc529cf3ff
+757	921	7645405583882058	test_2.exe	e3ba6a132bea1ed6
+32	681	7645406722817967	CMakeFiles/test_2.dir/main.cpp.obj	8aa831fc529cf3ff
+43	690	7645406722917997	CMakeFiles/test_2.dir/TaskRepository.cpp.obj	78452198c52245d9
+690	833	7645406729392699	test_2.exe	e3ba6a132bea1ed6
+24	731	7645406898148526	CMakeFiles/test_2.dir/TaskRepository.cpp.obj	78452198c52245d9
+732	899	7645406905234593	test_2.exe	e3ba6a132bea1ed6
+33	681	7645407947027015	CMakeFiles/test_2.dir/main.cpp.obj	8aa831fc529cf3ff
+42	683	7645407947127014	CMakeFiles/test_2.dir/TaskRepository.cpp.obj	78452198c52245d9
+683	841	7645407953533761	test_2.exe	e3ba6a132bea1ed6
+29	724	7645408355882448	CMakeFiles/test_2.dir/main.cpp.obj	8aa831fc529cf3ff
+725	865	7645408362838913	test_2.exe	e3ba6a132bea1ed6
+31	684	7645408675261755	CMakeFiles/test_2.dir/TaskRepository.cpp.obj	78452198c52245d9
+685	859	7645408681793513	test_2.exe	e3ba6a132bea1ed6
+22	695	7645408856345042	CMakeFiles/test_2.dir/main.cpp.obj	8aa831fc529cf3ff
+696	875	7645408863095487	test_2.exe	e3ba6a132bea1ed6
