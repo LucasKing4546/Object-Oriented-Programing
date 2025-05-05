@@ -1,0 +1,297 @@
+__Artist: The Echoes
+__Song: Song 1 by The Echoes
+__Lyrics:
+Dancing under neon lights.
+This is the first line of the lyrics.
+The melody flows through the night.
+This is the final verse we sing.
+Feel the rhythm in your soul.
+This is the first line of the lyrics.
+
+__Artist: The Echoes
+__Song: Song 2 by The Echoes
+__Lyrics:
+Dancing under neon lights.
+The melody flows through the night.
+Feel the rhythm in your soul.
+Feel the rhythm in your soul.
+
+__Artist: The Echoes
+__Song: Song 3 by The Echoes
+__Lyrics:
+This is the first line of the lyrics.
+This is the final verse we sing.
+The melody flows through the night.
+Echoes of dreams we used to know.
+
+__Artist: Luna Skye
+__Song: Song 1 by Luna Skye
+__Lyrics:
+The melody flows through the night.
+Feel the rhythm in your soul.
+The melody flows through the night.
+Dancing under neon lights.
+The melody flows through the night.
+This is the first line of the lyrics.
+
+__Artist: Luna Skye
+__Song: Song 2 by Luna Skye
+__Lyrics:
+This is the first line of the lyrics.
+Feel the rhythm in your soul.
+This is the final verse we sing.
+Dancing under neon lights.
+Echoes of dreams we used to know.
+
+__Artist: Luna Skye
+__Song: Song 3 by Luna Skye
+__Lyrics:
+The melody flows through the night.
+Feel the rhythm in your soul.
+Dancing under neon lights.
+Echoes of dreams we used to know.
+Echoes of dreams we used to know.
+
+__Artist: Velvet Horizon
+__Song: Song 1 by Velvet Horizon
+__Lyrics:
+This is the first line of the lyrics.
+Feel the rhythm in your soul.
+This is the first line of the lyrics.
+The melody flows through the night.
+
+__Artist: Velvet Horizon
+__Song: Song 2 by Velvet Horizon
+__Lyrics:
+Echoes of dreams we used to know.
+Dancing under neon lights.
+This is the first line of the lyrics.
+The melody flows through the night.
+This is the final verse we sing.
+
+__Artist: Velvet Horizon
+__Song: Song 3 by Velvet Horizon
+__Lyrics:
+This is the final verse we sing.
+Feel the rhythm in your soul.
+Feel the rhythm in your soul.
+Dancing under neon lights.
+Dancing under neon lights.
+The melody flows through the night.
+
+__Artist: Neon Dreams
+__Song: Song 1 by Neon Dreams
+__Lyrics:
+Echoes of dreams we used to know.
+This is the first line of the lyrics.
+Echoes of dreams we used to know.
+This is the final verse we sing.
+Dancing under neon lights.
+This is the first line of the lyrics.
+
+__Artist: Neon Dreams
+__Song: Song 2 by Neon Dreams
+__Lyrics:
+This is the final verse we sing.
+Dancing under neon lights.
+Dancing under neon lights.
+Feel the rhythm in your soul.
+
+__Artist: Neon Dreams
+__Song: Song 3 by Neon Dreams
+__Lyrics:
+This is the final verse we sing.
+The melody flows through the night.
+The melody flows through the night.
+Dancing under neon lights.
+This is the first line of the lyrics.
+The melody flows through the night.
+
+__Artist: Solar Drift
+__Song: Song 1 by Solar Drift
+__Lyrics:
+Feel the rhythm in your soul.
+Dancing under neon lights.
+The melody flows through the night.
+Dancing under neon lights.
+Echoes of dreams we used to know.
+
+__Artist: Solar Drift
+__Song: Song 2 by Solar Drift
+__Lyrics:
+This is the first line of the lyrics.
+Dancing under neon lights.
+This is the final verse we sing.
+Dancing under neon lights.
+This is the first line of the lyrics.
+Feel the rhythm in your soul.
+
+__Artist: Solar Drift
+__Song: Song 3 by Solar Drift
+__Lyrics:
+Dancing under neon lights.
+This is the first line of the lyrics.
+The melody flows through the night.
+Dancing under neon lights.
+This is the first line of the lyrics.
+The melody flows through the night.
+
+__Artist: Crimson Pulse
+__Song: Song 1 by Crimson Pulse
+__Lyrics:
+This is the first line of the lyrics.
+Echoes of dreams we used to know.
+This is the final verse we sing.
+This is the first line of the lyrics.
+Dancing under neon lights.
+Feel the rhythm in your soul.
+
+__Artist: Crimson Pulse
+__Song: Song 2 by Crimson Pulse
+__Lyrics:
+Feel the rhythm in your soul.
+This is the first line of the lyrics.
+This is the final verse we sing.
+Dancing under neon lights.
+
+__Artist: Crimson Pulse
+__Song: Song 3 by Crimson Pulse
+__Lyrics:
+This is the final verse we sing.
+The melody flows through the night.
+This is the final verse we sing.
+The melody flows through the night.
+Dancing under neon lights.
+
+__Artist: Indigo Wave
+__Song: Song 1 by Indigo Wave
+__Lyrics:
+Dancing under neon lights.
+The melody flows through the night.
+Dancing under neon lights.
+This is the first line of the lyrics.
+Feel the rhythm in your soul.
+The melody flows through the night.
+
+__Artist: Indigo Wave
+__Song: Song 2 by Indigo Wave
+__Lyrics:
+This is the final verse we sing.
+This is the final verse we sing.
+Feel the rhythm in your soul.
+The melody flows through the night.
+Echoes of dreams we used to know.
+This is the final verse we sing.
+
+__Artist: The Harmonics
+__Song: Song 1 by The Harmonics
+__Lyrics:
+The melody flows through the night.
+Echoes of dreams we used to know.
+Feel the rhythm in your soul.
+This is the first line of the lyrics.
+Echoes of dreams we used to know.
+The melody flows through the night.
+
+__Artist: The Harmonics
+__Song: Song 2 by The Harmonics
+__Lyrics:
+Echoes of dreams we used to know.
+The melody flows through the night.
+This is the final verse we sing.
+Dancing under neon lights.
+
+__Artist: The Harmonics
+__Song: Song 3 by The Harmonics
+__Lyrics:
+Echoes of dreams we used to know.
+Echoes of dreams we used to know.
+Echoes of dreams we used to know.
+Echoes of dreams we used to know.
+This is the first line of the lyrics.
+Dancing under neon lights.
+
+__Artist: Silverline
+__Song: Song 1 by Silverline
+__Lyrics:
+The melody flows through the night.
+This is the final verse we sing.
+Feel the rhythm in your soul.
+Echoes of dreams we used to know.
+
+__Artist: Silverline
+__Song: Song 2 by Silverline
+__Lyrics:
+The melody flows through the night.
+Echoes of dreams we used to know.
+This is the first line of the lyrics.
+Dancing under neon lights.
+Dancing under neon lights.
+
+__Artist: Silverline
+__Song: Song 3 by Silverline
+__Lyrics:
+This is the first line of the lyrics.
+Dancing under neon lights.
+Echoes of dreams we used to know.
+Feel the rhythm in your soul.
+
+__Artist: Nova Muse
+__Song: Song 1 by Nova Muse
+__Lyrics:
+The melody flows through the night.
+Echoes of dreams we used to know.
+The melody flows through the night.
+This is the first line of the lyrics.
+This is the final verse we sing.
+
+__Artist: Nova Muse
+__Song: Song 2 by Nova Muse
+__Lyrics:
+This is the final verse we sing.
+Echoes of dreams we used to know.
+This is the final verse we sing.
+This is the first line of the lyrics.
+
+__Artist: Aurora Skies
+__Song: Song 1 by Aurora Skies
+__Lyrics:
+This is the final verse we sing.
+This is the final verse we sing.
+The melody flows through the night.
+Dancing under neon lights.
+This is the final verse we sing.
+
+__Artist: Aurora Skies
+__Song: Song 2 by Aurora Skies
+__Lyrics:
+Dancing under neon lights.
+Echoes of dreams we used to know.
+Feel the rhythm in your soul.
+Feel the rhythm in your soul.
+This is the final verse we sing.
+
+__Artist: Midnight Tide
+__Song: Song 1 by Midnight Tide
+__Lyrics:
+Echoes of dreams we used to know.
+Dancing under neon lights.
+Echoes of dreams we used to know.
+This is the first line of the lyrics.
+
+__Artist: Midnight Tide
+__Song: Song 2 by Midnight Tide
+__Lyrics:
+This is the first line of the lyrics.
+This is the final verse we sing.
+Dancing under neon lights.
+Dancing under neon lights.
+
+__Artist: Midnight Tide
+__Song: Song 3 by Midnight Tide
+__Lyrics:
+Echoes of dreams we used to know.
+This is the final verse we sing.
+This is the final verse we sing.
+This is the first line of the lyrics.
+Echoes of dreams we used to know.
