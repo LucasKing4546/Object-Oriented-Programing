@@ -24,10 +24,10 @@ public:
     TaskRepository(int cap) {
         capacity = cap;
         length = 0;
-        array = nullptr;
+        array = new task[capacity];
     }
 
-    void add_Task(task Task);
+    void add_Task(const task& Task);
 
     void print(char delimiter);
 

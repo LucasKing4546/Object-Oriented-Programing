@@ -20,13 +20,19 @@ int main() {
 
 
     TaskRepository repo = TaskRepository(4);
+    std::cout << "Testing TaskRepository" << std::endl;
+    std::cout << "Testing add_Task" << std::endl;
     repo.add_Task(task(1, d1));
     assert(repo.time_needed().getSeconds() == d1.getSeconds());
+    std::cout << "Testing print" << std::endl;
     repo.print(';');
+    std::cout << "Testing delete_all" << std::endl;
     repo.delete_all();
+    std::cout << "Testing time_needed" << std::endl;
     assert(repo.time_needed().getSeconds() == 0);
     repo.add_Task(task(2, d3));
-    repo.add_Task(task(1, d1));
+    repo.add_Task(task(3, d1));
+    std::cout << "Testing count_tasks_between" << std::endl;
     assert(repo.count_tasks_between(d2, d3) == 1);
     std::cout << "All tests passed!";
 

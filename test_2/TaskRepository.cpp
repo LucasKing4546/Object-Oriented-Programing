@@ -3,9 +3,9 @@
 //
 #include "TaskRepository.h"
 
-void TaskRepository::add_Task(task Task) {
+void TaskRepository::add_Task(const task& Task) {
     if (length == capacity) {
-        capacity = 2*capacity;
+        capacity = 2 * capacity;
         task* new_data = new task[capacity];
         for (int i=0; i < length; i++) {
             new_data[i] = array[i];
@@ -38,7 +38,6 @@ Duration TaskRepository::time_needed() {
 void TaskRepository::delete_all() {
     if (array) {
         delete[] array;
-        array = nullptr;
         length = 0;
     }
 }

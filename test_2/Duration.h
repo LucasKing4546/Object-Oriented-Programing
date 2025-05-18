@@ -32,6 +32,7 @@ public:
     int getSeconds() const;
 
     int get(const char& n_unit) const;
+
     friend std::ostream& operator<<(std::ostream& os, const Duration& obj) {
         os << "PT";
         int h = 0, m = 0, s = 0;
