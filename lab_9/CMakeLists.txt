@@ -7,4 +7,6 @@ add_executable(lab_9 main.cpp
         Animal.h
         Animal.cpp
         Entity.h
-        Entity.cpp)
+        Entity.cpp
+        SimulationGrid.h
+        SimulationGrid.cpp)

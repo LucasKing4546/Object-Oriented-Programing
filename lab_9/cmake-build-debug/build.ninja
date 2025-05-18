@@ -67,6 +67,12 @@ build CMakeFiles/lab_9.dir/Entity.cpp.obj: CXX_COMPILER__lab_9_unscanned_Debug C
   OBJECT_DIR = CMakeFiles\lab_9.dir
   OBJECT_FILE_DIR = CMakeFiles\lab_9.dir
 
+build CMakeFiles/lab_9.dir/SimulationGrid.cpp.obj: CXX_COMPILER__lab_9_unscanned_Debug C$:/Git/Object-Oriented-Programing/lab_9/SimulationGrid.cpp || cmake_object_order_depends_target_lab_9
+  DEP_FILE = CMakeFiles\lab_9.dir\SimulationGrid.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_9.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_9.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target lab_9
@@ -75,7 +81,7 @@ build CMakeFiles/lab_9.dir/Entity.cpp.obj: CXX_COMPILER__lab_9_unscanned_Debug C
 #############################################
 # Link the executable lab_9.exe
 
-build lab_9.exe: CXX_EXECUTABLE_LINKER__lab_9_Debug CMakeFiles/lab_9.dir/main.cpp.obj CMakeFiles/lab_9.dir/Animal.cpp.obj CMakeFiles/lab_9.dir/Entity.cpp.obj
+build lab_9.exe: CXX_EXECUTABLE_LINKER__lab_9_Debug CMakeFiles/lab_9.dir/main.cpp.obj CMakeFiles/lab_9.dir/Animal.cpp.obj CMakeFiles/lab_9.dir/Entity.cpp.obj CMakeFiles/lab_9.dir/SimulationGrid.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\lab_9.dir
