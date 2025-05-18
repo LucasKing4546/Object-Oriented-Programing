@@ -73,12 +73,6 @@ build CMakeFiles/test2.dir/CheckingAccount.cpp.obj: CXX_COMPILER__test2_unscanne
   OBJECT_DIR = CMakeFiles\test2.dir
   OBJECT_FILE_DIR = CMakeFiles\test2.dir
 
-build CMakeFiles/test2.dir/io.cpp.obj: CXX_COMPILER__test2_unscanned_Debug C$:/Git/Object-Oriented-Programing/test2/io.cpp || cmake_object_order_depends_target_test2
-  DEP_FILE = CMakeFiles\test2.dir\io.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\test2.dir
-  OBJECT_FILE_DIR = CMakeFiles\test2.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target test2
@@ -87,7 +81,7 @@ build CMakeFiles/test2.dir/io.cpp.obj: CXX_COMPILER__test2_unscanned_Debug C$:/G
 #############################################
 # Link the executable test2.exe
 
-build test2.exe: CXX_EXECUTABLE_LINKER__test2_Debug CMakeFiles/test2.dir/main.cpp.obj CMakeFiles/test2.dir/BankAccount.cpp.obj CMakeFiles/test2.dir/SavingsAccount.cpp.obj CMakeFiles/test2.dir/CheckingAccount.cpp.obj CMakeFiles/test2.dir/io.cpp.obj
+build test2.exe: CXX_EXECUTABLE_LINKER__test2_Debug CMakeFiles/test2.dir/main.cpp.obj CMakeFiles/test2.dir/BankAccount.cpp.obj CMakeFiles/test2.dir/SavingsAccount.cpp.obj CMakeFiles/test2.dir/CheckingAccount.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\test2.dir

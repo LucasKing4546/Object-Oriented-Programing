@@ -10,4 +10,5 @@ add_executable(test2 main.cpp
         CheckingAccount.h
         SavingsAccount.cpp
         CheckingAccount.cpp
-        io.cpp)
+        BankAccountArray.h
+)

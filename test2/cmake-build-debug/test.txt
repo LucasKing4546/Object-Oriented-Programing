@@ -1,0 +1,2 @@
+SavingsAccount 123456789 500 2
+CheckingAccount 819481802 -500 500
