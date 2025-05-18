@@ -55,6 +55,18 @@ build CMakeFiles/sem_3.dir/main.cpp.obj: CXX_COMPILER__sem_3_unscanned_Debug C$:
   OBJECT_DIR = CMakeFiles\sem_3.dir
   OBJECT_FILE_DIR = CMakeFiles\sem_3.dir
 
+build CMakeFiles/sem_3.dir/AcousticWawe.cpp.obj: CXX_COMPILER__sem_3_unscanned_Debug C$:/Git/Object-Oriented-Programing/sem_3/AcousticWawe.cpp || cmake_object_order_depends_target_sem_3
+  DEP_FILE = CMakeFiles\sem_3.dir\AcousticWawe.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sem_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\sem_3.dir
+
+build CMakeFiles/sem_3.dir/DerivedWaves.cpp.obj: CXX_COMPILER__sem_3_unscanned_Debug C$:/Git/Object-Oriented-Programing/sem_3/DerivedWaves.cpp || cmake_object_order_depends_target_sem_3
+  DEP_FILE = CMakeFiles\sem_3.dir\DerivedWaves.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sem_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\sem_3.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target sem_3
@@ -63,7 +75,7 @@ build CMakeFiles/sem_3.dir/main.cpp.obj: CXX_COMPILER__sem_3_unscanned_Debug C$:
 #############################################
 # Link the executable sem_3.exe
 
-build sem_3.exe: CXX_EXECUTABLE_LINKER__sem_3_Debug CMakeFiles/sem_3.dir/main.cpp.obj
+build sem_3.exe: CXX_EXECUTABLE_LINKER__sem_3_Debug CMakeFiles/sem_3.dir/main.cpp.obj CMakeFiles/sem_3.dir/AcousticWawe.cpp.obj CMakeFiles/sem_3.dir/DerivedWaves.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\sem_3.dir
